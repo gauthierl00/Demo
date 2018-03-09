@@ -407,4 +407,5 @@
     <migrationTask xmi:id="_sDqAxiM2EeicieGe-_jb7Q" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_p2wqEiM2EeicieGe-_jb7Q" login="bottomano@eval7930.talend.com" firstName="Bruce" lastName="Ottomano" type="DI"/>
+  <TalendProperties:User xmi:id="_b2dCgSOuEei3as16hvRcwQ" login="lgauthier@eval7930.talend.com" firstName="Lyne" lastName="Gauthier" type="DI"/>
 </xmi:XMI>
